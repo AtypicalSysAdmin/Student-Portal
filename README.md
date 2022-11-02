@@ -1,14 +1,12 @@
 # Student-Portal
 C# Windows form app (file database)
 
-You will find database file in 
+I know, I know, I was student back then, two weeks to final exam to develope a fullstack application by myself in compete to others with group of 4
 
-"Where you extracted or downloaded the project"\Student Portal\Student Portal\bin\Debug\database
+So couldn't get time to build a proper folder structure for the modules
 
-You can change storing file address however you want even you can change it to SQL or SQLite, but before that make sure you won't mix them up.
+--File Database path - probably stores in csv format, been back after long time to this repo to fix its bloody readme
 
-If you want to change it to SQL, just follow the structure for your files paths to create rows and columns
+.\Student Portal\Student Portal\bin\Debug\database
 
-I posted whole project in zip so that you can download, extract, and run it easily.
 
-Feel free to ask anything about how this works
